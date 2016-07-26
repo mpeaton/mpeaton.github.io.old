@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I like computers, and playing music and stuff.  I am independent, autodidactic, and honest.  Vainly trying to keep up with the valley guys.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mpeaton@gmail.com](mailto:mpeaton@gmail.com)
